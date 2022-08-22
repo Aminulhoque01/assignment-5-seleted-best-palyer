@@ -120,8 +120,7 @@ const array=[];
                 tr.innerHTML = `
                 <th>${i+1}</th>
                 <td>${name[i].name}</td>
-                
-                `;
+                 `;
                 cartContainer.appendChild(tr);
                 
 
