@@ -165,7 +165,7 @@ const array=[];
     }
 
 
-
+    // common function 
 
     function getInputValueId(input){
         const CalculateFill= document.getElementById(input);
