@@ -79,6 +79,24 @@ const array=[];
         getElementById("save-btn9")
     });
 
+    const saveBtn10=document.querySelector('#save-btn10');
+    saveBtn10.addEventListener('click', function()  {
+        saveBtn10.style.backgroundColor='#dddddd' ;
+        getElementById("save-btn10")
+    });
+
+    const saveBtn11=document.querySelector('#save-btn11');
+    saveBtn11.addEventListener('click', function()  {
+        saveBtn11.style.backgroundColor='#dddddd' ;
+        getElementById("save-btn11")
+    });
+
+    const saveBtn12=document.querySelector('#save-btn12');
+    saveBtn12.addEventListener('click', function()  {
+        saveBtn12.style.backgroundColor='#dddddd' ;
+        getElementById("save-btn12")
+    });
+
   
     
 
